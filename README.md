@@ -2,6 +2,9 @@
 
 A custom font by Delinx based on RobotoMono and Fixedsys Excelsior + pathced by NerdFont
 
+![](media/VectorImg.png)
+![](media/ExcelsiorRoboto.gif)
+
 I love Fixedsys Excelsior, I used it for years, yet it does not scale nicely (obviously), I since then moved to RobotoMono but I still miss the look and feel from Fixedsys Excelsior.
 This project is my attempt to re-create quirks of Fixedsys Excelsior while using RobotoMono as a base. I have never designed fonts before, wish me luck.
 
