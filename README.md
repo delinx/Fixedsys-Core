@@ -18,5 +18,6 @@ Links:
 
 [clang-format configurator](https://zed0.co.uk/clang-format-configurator/) (C++ example code)
 
-TODO:
-Fix 's' char, it's weird heights when font is scaled
+#TODO:
+
+ * [ ] Fix 's' char, it's weird heights when font is scaled
