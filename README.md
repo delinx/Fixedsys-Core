@@ -23,3 +23,11 @@ Links:
 # TODO:
 
  * [X] Fix 's' char, it's weird heights when font is scaled
+
+# License
+
+Do whatever original license allows you to do, I don't own original Fixedsys, nor Fixedsys Excelsior; so this is a modification for the original font, not a new font.
+If you decide to credit me somwhere I appreciate it. 
+
+# If you want to say thank you
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/delinx)
