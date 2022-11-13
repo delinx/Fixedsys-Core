@@ -3,7 +3,7 @@
 A custom font by Delinx based on Fixedsys Excelsior
 
 ![](media/VectorImg.png)
-![](media/ExcelsiorRoboto.gif)
+![](https://i.imgur.com/6K2hENw.png)
 
 I love Fixedsys Excelsior, I used it for years, yet it does not scale nicely (obviously), I since then moved to RobotoMono but I still miss the look and feel from Fixedsys Excelsior.
 This project is my attempt to re-create quirks of Fixedsys Excelsior and make it scale well. I have never designed fonts before, wish me luck.
