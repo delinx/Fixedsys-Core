@@ -1,9 +1,11 @@
-#AboutFixedsys Modern
+# About 
+## Fixedsys Modern
 
 A custom font by Delinx based on Fixedsys Excelsior
 
 ![](media/VectorImg.png)
 ![](https://i.imgur.com/6K2hENw.png)
+
 (the bottom is this version, top is the original)
 
 I love Fixedsys Excelsior, I used it for years, yet it does not scale nicely (obviously), I since then moved to RobotoMono but I still miss the look and feel from Fixedsys Excelsior.
