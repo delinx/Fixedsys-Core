@@ -3,6 +3,7 @@
 
 A custom font by Delinx based on Fixedsys Excelsior
 
+![](media/ExcelsiorModernV02Demo.gif)
 ![](media/VectorImg.png)
 ![](https://i.imgur.com/6K2hENw.png)
 
