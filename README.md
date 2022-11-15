@@ -27,7 +27,7 @@ Links:
 
  * [X] Fix 's' char, it's weird heights when font is scaled
  * [X] Fix 'e' and 'd' upper bean thikness 
- * [ ] Make a NerdFont patched version of the font!
+ * [ ] Make a NerdFont patched version of the font! (can fix horizontal spacing at the same time by hard limiting cell width)
 
 # License
 
