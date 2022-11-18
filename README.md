@@ -1,8 +1,9 @@
 # About 
 ## Fixedsys Modern
 
-A custom font by Delinx based on Fixedsys Excelsior
+A custom font by Delinx based on Fixedsys Excelsior 
 
+(All screenshots here are V4, TODO: Update)
 ![](media/ExcelsiorModernV02Demo.gif)
 ![](media/VectorImg.png)
 ![](https://i.imgur.com/6K2hENw.png)
