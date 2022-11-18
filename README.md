@@ -24,6 +24,8 @@ Links:
 
 [cntrump/fixedsys-excelsior](https://github.com/cntrump/fixedsys-excelsior)
 
+[Nerd fonts patcher](https://github.com/ryanoasis/nerd-fonts)
+
 [clang-format configurator](https://zed0.co.uk/clang-format-configurator/) (C++ example code)
 
 # TODO:
