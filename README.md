@@ -28,7 +28,8 @@ Links:
  * [X] Fix 's' char, it's weird heights when font is scaled
  * [X] Fix 'e' and 'd' upper bean thikness 
  * [ ] Make a NerdFont patched version of the font! (can fix horizontal spacing at the same time by hard limiting cell width)
-
+ * [ ] Fix '8', look too thick compared to other numbers
+ 
 # License
 
 Do whatever original license allows you to do, I don't own original Fixedsys, nor Fixedsys Excelsior; so this is a modification for the original font, not a new font.
