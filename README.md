@@ -24,11 +24,13 @@ Links:
 [clang-format configurator](https://zed0.co.uk/clang-format-configurator/) (C++ example code)
 
 # TODO:
-
+#### v1-4
  * [X] Fix 's' char, it's weird heights when font is scaled
  * [X] Fix 'e' and 'd' upper bean thikness 
- * [ ] Make a NerdFont patched version of the font! (can fix horizontal spacing at the same time by hard limiting cell width)
- * [ ] Fix '8', look too thick compared to other numbers
+#### v5
+ * [X] changed '8', '&', '`', '~', '{', '}', '#'. (check v5 release for the comparasion)
+#### v6
+ * [ ] Makea NerdFont patched version of the font! (can fix horizontal spacing at the same time by hard limiting cell width)
  
 # License
 
