@@ -9,6 +9,9 @@ A custom font by Delinx based on Fixedsys Excelsior
 
 (the bottom is this version, top is the original)
 
+![](media/FixedsysModernV04.gif)
+(Horizontal character cell spacing is adjusted within WezTerm config, I prefer font to be narrow)
+
 I love Fixedsys Excelsior, I used it for years, yet it does not scale nicely (obviously), I since then moved to RobotoMono but I still miss the look and feel from Fixedsys Excelsior.
 This project is my attempt to re-create quirks of Fixedsys Excelsior and make it scale well. I have never designed fonts before, wish me luck.
 
@@ -21,9 +24,14 @@ Links:
 [clang-format configurator](https://zed0.co.uk/clang-format-configurator/) (C++ example code)
 
 # TODO:
-
+#### v1-4
  * [X] Fix 's' char, it's weird heights when font is scaled
-
+ * [X] Fix 'e' and 'd' upper bean thikness 
+#### v5
+ * [X] changed '8', '&', '`', '~', '{', '}', '#'. (check v5 release for the comparasion)
+#### v6
+ * [ ] Makea NerdFont patched version of the font! (can fix horizontal spacing at the same time by hard limiting cell width)
+ 
 # License
 
 Do whatever original license allows you to do, I don't own original Fixedsys, nor Fixedsys Excelsior; so this is a modification for the original font, not a new font.
