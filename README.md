@@ -22,6 +22,8 @@ Links:
 
 [GitHub - kika/fixedsys: Fixedsys Excelsior font with programming ligatures](https://github.com/kika/fixedsys)
 
+[cntrump/fixedsys-excelsior](https://github.com/cntrump/fixedsys-excelsior)
+
 [clang-format configurator](https://zed0.co.uk/clang-format-configurator/) (C++ example code)
 
 # TODO:
@@ -30,8 +32,7 @@ Links:
  * [X] Fix 'e' and 'd' upper bean thikness 
 #### v5
  * [X] changed '8', '&', '`', '~', '{', '}', '#'. (check v5 release for the comparasion)
-#### v6
- * [ ] Makea NerdFont patched version of the font! (can fix horizontal spacing at the same time by hard limiting cell width)
+ * [X] Makea NerdFont patched version of the font!
  
 # License
 
@@ -40,3 +41,5 @@ If you decide to credit me somwhere I appreciate it.
 
 # If you want to say thank you
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/delinx)
+
+
