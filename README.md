@@ -7,13 +7,21 @@ I am a programmer, not a designer, so if you can improve some elements, please f
 
 English alphas, numerics and special symbols typically used in programming were redrawn. Everything else is imported from Fixedsys Excelsior as a fallback.
 
+![image](https://github.com/delinx/Fixedsys-Modern/assets/6831935/7031da41-6c9d-45c4-9435-3418b07400ad)
+(Fixedsys Excelsior, Fixedsys Core)
+
+![image](https://github.com/delinx/Fixedsys-Modern/assets/6831935/50c8a766-d730-4eab-ae55-7cd3daf0d180)
+
+
 # License
 
 [GitHub - kika/fixedsys: Fixedsys Excelsior font with programming ligatures](https://github.com/kika/fixedsys)
+
 [cntrump/fixedsys-excelsior](https://github.com/cntrump/fixedsys-excelsior)
 
 Do whatever original license allows you to do, I don't own original Fixedsys, nor Fixedsys Excelsior; so this is a
 modification for the original font, not a new font. Credit still would be appreciated!  
+
 
 # If you want to say thank you
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/delinx)
