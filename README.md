@@ -19,9 +19,9 @@ English alphas, numerics and special symbols typically used in programming were 
 
 [cntrump/fixedsys-excelsior](https://github.com/cntrump/fixedsys-excelsior)
 
-Do whatever original license allows you to do, I don't own original Fixedsys, nor Fixedsys Excelsior; so this is a
+Do whatever the original license allows you to do, I don't own the original Fixedsys, nor Fixedsys Excelsior, so this is a
 modification for the original font, not a new font. Credit still would be appreciated!  
 
 
-# If you want to say thank you
+# Thank you
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/delinx)
