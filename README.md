@@ -24,5 +24,5 @@ modification for the original font, not a new font. Credit still would be apprec
 
 
 # Thank you
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/delinx)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/mailgy)
  [!["Paypal"](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=E77J2CCMQYPN2)
